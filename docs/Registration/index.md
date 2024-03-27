@@ -26,7 +26,7 @@ All prices include lunch and dinner for the duration of the conference.
 
 We offer several payment options for your convenience. Please choose the method that best suits your needs.
 
-__It is important to include a payment note with the format "ISA24-\[YOUR NAME\]".__ Should you encounter any issues with the note length, please [contact us](../Contact/index.md) for assistance.
+__It is important to include a payment note with the format "SEM24-\[YOUR NAME\]".__ Should you encounter any issues with the note length, please [contact us](../Contact/index.md) for assistance.
 
 - For payments in EUR/USD
     - SWIFT transfer
