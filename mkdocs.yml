@@ -1,0 +1,62 @@
+site_name: 2024 Joint ISIE Socio-Economic Metabolism and Asia-Pacific Conference
+theme:
+  name: material
+  icon:
+    logo: material/earth
+  favicon: image/favicon.png
+  custom_dir: overrides
+  font: false
+
+  # coloring
+  palette:
+    # palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  # fastloading
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+
+# copyright info
+copyright: "&copy; 2024 Joint ISIE Socio-Economic Metabolism and Asia-Pacific Conference Committee"
+
+plugins:
+  # for customizing navbar
+  - awesome-pages
+  # for adding search
+  - search
+
+# external links, like whatsapp and wechat
+extra:
+  generator: false
+  analytics:
+    provider: custom
+    property: no_props
+
+# customizing navbar and sequence of documents
+nav:
+  - Home: index.md
+  - Program: Program/index.md
+  - Registration: Registration/index.md
+  - Abstract Submission: Program/Abstract.md
+  - Venue and Travel: Venue and Travel/index.md
+  - Committees: Committees/index.md
+  - Contact: Contact/index.md
+  - FAQs: FAQs/index.md
