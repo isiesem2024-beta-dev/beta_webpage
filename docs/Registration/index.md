@@ -9,7 +9,7 @@ Registration for the conference is now open. We kindly request that you review t
 
 ## Fees
 
-Registration fees vary based on your ISIE membership status, the timing of your registration, and the category of participant. Please note that our early bird registration concludes on May 31, 2024 (inclusive, UTC+8). The fee structure is as follows:
+Registration fees vary based on your ISIE membership status, the timing of your registration, and the category of participant. Please note that our early bird registration concludes on June 25, 2024 (inclusive, UTC+8). The fee structure is as follows:
 
 For non-ISIE members:
 
@@ -29,9 +29,11 @@ All prices include lunch and dinner for the duration of the conference.
 
 To ensure accurate identification of your payment, please submit your detailed information by completing the following form. **After submitting the form, we will soon send you an invoice with the payment details and instructions after checking your information.**
 
-> **We use Google Forms** to collect information. However, **Google services might be inaccessible in some regions.** In such case, we suggest seeking assistance from other people or internet. If the form below cannot be viewed correctly, please use [this link](https://docs.google.com/forms/d/e/1FAIpQLSdgKNyBpGUemg2ZdP7lCvK22xTXS6SmS0jbMZVu9rk6YfqjFQ/viewform?usp=sf_link).
+> We use Google Forms to collect information. However, **Google services might be inaccessible in some regions.** In such case, please use [this link](https://docs.qq.com/form/page/DSUFCS3NWUkVHUHJu).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdgKNyBpGUemg2ZdP7lCvK22xTXS6SmS0jbMZVu9rk6YfqjFQ/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+> If the form above cannot be viewed correctly, please use [this link](https://docs.google.com/forms/d/e/1FAIpQLSdgKNyBpGUemg2ZdP7lCvK22xTXS6SmS0jbMZVu9rk6YfqjFQ/viewform?usp=sf_link).
 
 ### Step 2: Payment and Confirmation
 
