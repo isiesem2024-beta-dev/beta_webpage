@@ -17,6 +17,14 @@ We look forward to welcoming as many of you as possible from the ISIE, ISIE-SEM,
 
 This integrated event of the ISIE-SEM and ISIE-AP will be a unique combination and opportunity to discuss industrial ecology and socio-economic metabolism issues facing the Asia-Pacific region and the world surrounding it. It will also be a platform for collaboration among scholars, practitioners, and policy-makers across the world to make a lasting contribution to this field.
 
+## Organizers
+
+- International Society for Industrial Ecology (Socio-Economic Metabolism Section)
+- Peking University (College of Urban and Environmental Sciences)
+- China Society of Natural Resources (Material Flows and Resource Management Section)
+- Japan Society of Civil Engineers (Environmental System Research Committee)
+- Chinese Society for Industrial Ecology
+
 ## Stay Updated
 
 <!-- This section title has hyperlink in /Program/index.md -->
@@ -40,4 +48,4 @@ This website [isiesem2024.net](index.md) contains all information related to the
 - June 30, 2024 **(postponed)**: Preliminary programme announced
 - July 20, 2024 **(postponed)**: Registration closes
 - July 25, 2024 **(postponed)**: Programme announced
-- August 23-27, 2024: Conference
+- August 24-27, 2024: Conference

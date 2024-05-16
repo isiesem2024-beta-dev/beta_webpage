@@ -40,3 +40,11 @@ To ensure accurate identification of your payment, please submit your detailed i
 Upon having checked your information, we will send you an invoice with the payment details and instructions as promptly as possible. **Please ensure that the invoice comes from <feng_cheng@fxetr.com> to avoid potential scams**. Once your payment is confirmed, we will send you a confirmation email.
 
 Should you not receive your invoice or confirmation email within a reasonable timeframe (e.g. more than 3 days), please [contact us](../Contact/index.md).
+
+## Extra Resources
+
+### Invitation Letter Request
+
+If you need invitation letter to apply for a visa or for other purposes, please fill in the form below. 
+
+[Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeylJjM6qcMpGgEKmu_EH5N-70D89p9gFwFT6xd5i-nONhMDw/viewform?usp=sf_link)
