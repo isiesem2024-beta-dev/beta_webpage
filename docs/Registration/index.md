@@ -45,6 +45,10 @@ Should you not receive your invoice or confirmation email within a reasonable ti
 
 ### Invitation Letter Request
 
-If you need invitation letter to apply for a visa or for other purposes, please fill in the form below. 
+If you need invitation letter to apply for a visa or for other purposes, please fill in the form below.
 
 [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSeylJjM6qcMpGgEKmu_EH5N-70D89p9gFwFT6xd5i-nONhMDw/viewform?usp=sf_link)
+
+### FREE Access to Back-to-back Conference
+
+Please note that registration for the ISIE-SEM/AP conference will guarantee FREE access to the 6th Material Flows and Resource Management Section Conference of the China Society of Natural Resources, which will be held on August 24, 2024, in the same conference venue (see details here: [第六届全国资源流动与管理研究学术年会](../China_Conference/index.md); in Chinese only).

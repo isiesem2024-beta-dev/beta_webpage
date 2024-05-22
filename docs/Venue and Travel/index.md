@@ -39,9 +39,9 @@ The `distances and estimated costs` from the airport or train stations to the co
 
 ## Accommodation
 
-The `Zhongguan Xinyuan Global Village PKU Beijing hotel set aside a block of rooms for the conference attendees`, with 100 rooms in Villa 1 and 100 rooms in Building No. 9.
+The Zhongguan Xinyuan Global Village PKU Beijing hotel **set aside a block of rooms for the conference attendees**, with 100 rooms in Villa 1 and 100 rooms in Building No. 9.
 
-When booking, *please mention your participation in the ISIE SEM and Asia-Pacific Conference to access the conference discount. We recommend making your reservation in a timely manner.* Kindly be aware that the hotel expenses are to be covered by yourself.
+Kindly be aware that the hotel expenses are to be covered by yourself.
 
 ### Zhongguan Xinyuan Global Village PKU Beijing (北京大学中关新园)
 
@@ -68,6 +68,14 @@ Price per night, per person/room from 658 RMB --, including breakfast
 Distance to the conference venue: 300 meters, a 5-minute walk to the venue
 
 Price per night, per person/room from 558 RMB --, including breakfast
+
+### How to Book
+
+You can contact the hotel directly via the website link or phone number provided above to book your room. Alternatively, you can book through us to receive a discount (limited quantity) by filling out this form:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdS__Q7o3mlPvLMQKReyJUnL7R8mqJYbiyoAnWTD5ltFexSOQ/viewform?embedded=true" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+If the quantity limit is reached, we will promptly notify you and assist with rearranging your accommodation.
 
 <br>
 
