@@ -34,7 +34,7 @@ This website [isiesem2024.net](index.md) contains all information related to the
 
 ## Announcements
 
-- Conference program table is out now! Please check the [Program](Program/index.md) page for more details.
+- Conference program is out now! Please check the [Program](Program/index.md) page for more details.
 - <del>The abstract submission is open now! Anyone who is interested in giving a presentation at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.</del>
 - Conference registration is open now! Please check the [Registration](Registration/index.md) page for more details.
 
