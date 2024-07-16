@@ -15,9 +15,6 @@ The conference program table is out now! The schedule during the conference is p
 
 ![1721130804957](image/index/1721130804957.png)
 
-- Keynote name: Weight of the Society - Climate Change and Sustainable Stock-type Society
-- Abstract: Can Japan’s material stock be left as an asset for future generations? Climate change, declining birth rates, and an aging society are already underway. We are preparing to plan for society in 2050, which was thought to be a distant future. This article summarizes the concept of a stock-type society that accumulates many assets that will enrich the next generation. It discusses establishing a stock-type society from many perspectives based on existing research.
-
 ### Dr. FANG Li
 
 ![1721130855667](image/index/1721130855667.png)
