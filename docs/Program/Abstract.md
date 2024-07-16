@@ -5,8 +5,18 @@ hide:
 
 # Abstract or Special Session Proposal Submission
 
+## Abstract submission is **finished**.
+
+We maintain this page and its functionality for your reference. However, please note that new abstract submissions will not be reviewed or accepted. If you believe you have an exceptional circumstance and need to submit your abstract after the deadline, please [contact us](../Contact/index.md).
+
+<br>
+<br>
+<br>
+
 <!-- This page has hyperlink in /program/index.md -->
 <!-- 本页在 /program/index.md 中有超链接 -->
+
+## Original Content
 
 Thanks for your interest in giving a presentation or proposing a special session at this conference. Please submit your abstract or special session proposal by filling out this form:
 

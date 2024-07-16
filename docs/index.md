@@ -34,17 +34,18 @@ This website [isiesem2024.net](index.md) contains all information related to the
 
 ## Announcements
 
-- The abstract submission is open now! Anyone who is interested in giving a presentation at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.
+- Conference program table is out now! Please check the [Program](Program/index.md) page for more details.
+- <del>The abstract submission is open now! Anyone who is interested in giving a presentation at the conference can submit an abstract. Please check the [Abstract Submission](Program/Abstract.md) page for more details.</del>
 - Conference registration is open now! Please check the [Registration](Registration/index.md) page for more details.
 
 ## Important Dates
 
 **(note some deadlines are extended)**
 
-- February 5, 2024: Abstract and special session proposal submission opens
+- <del>February 5, 2024: Abstract and special session proposal submission opens</del>
 - March 26, 2024: Registration starts
-- June 20, 2024 **(extended)**: Abstract submission closes
-- June 25, 2024 **(extended)**: Early bird registration closes
+- <del>June 20, 2024 **(extended)**: Abstract submission closes</del>
+- <del>June 25, 2024 **(extended)**: Early bird registration closes</del>
 - June 30, 2024 **(postponed)**: Preliminary programme announced
 - July 20, 2024 **(postponed)**: Registration closes
 - July 25, 2024 **(postponed)**: Programme announced

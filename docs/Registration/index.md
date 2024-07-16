@@ -9,16 +9,16 @@ Registration for the conference is now open. We kindly request that you review t
 
 ## Fees
 
-Registration fees vary based on your ISIE membership status, the timing of your registration, and the category of participant. Please note that our early bird registration concludes on June 25, 2024 (inclusive, UTC+8). The fee structure is as follows:
+Registration fees vary based on your ISIE membership status, the timing of your registration, and the category of participant. Please note that our early bird registration has already concluded on June 25, 2024 (inclusive, UTC+8). The fee structure is as follows:
 
 For non-ISIE members:
 
-- Early bird: 400 EUR / 450 USD / 3200 CNY (students), 500 EUR / 550 USD / 4000 CNY (non-students)
+- <del>Early bird (already concluded): 400 EUR / 450 USD / 3200 CNY (students), 500 EUR / 550 USD / 4000 CNY (non-students)</del>
 - Regular: 460 EUR / 500 USD / 3600 CNY (students), 560 EUR / 600 USD / 4400 CNY (non-students)
 
 For ISIE members:
 
-- Early bird: 350 EUR / 395 USD / 2800 CNY (students), 450 EUR / 495 USD / 3600 CNY (non-students)
+- <del>Early bird (already concluded): 350 EUR / 395 USD / 2800 CNY (students), 450 EUR / 495 USD / 3600 CNY (non-students)</del>
 - Regular: 410 EUR / 445 USD / 3200 CNY (students), 510 EUR / 545 USD / 4000 CNY (non-students)
 
 All prices include lunch and dinner for the duration of the conference.
