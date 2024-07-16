@@ -3,26 +3,26 @@ hide:
   - navigation
 ---
 
-# Conference Programs
+# Conference Program
 
-The conference program table is out now! The schedule during the conference is provided as follows (please note that minor changes may still occur):
+The conference program is out now! The schedule during the conference is provided as follows (please note that minor changes may still occur):
 
 ![1721121076089](image/index/1721121076089.png)
 
 ## Keynote Speakers
 
-### Prof. Hiroki TANIKAWA
+### Prof. Hiroki Tanikawa
 
-![1721130804957](image/index/1721130804957.png)
+![1721139857892](image/index/1721139857892.png)
 
-### Dr. FANG Li
+### Dr. Li Fang
 
-![1721130855667](image/index/1721130855667.png)
+![1721139866488](image/index/1721139866488.png)
 
 ### Dr. Heinz Schandl
 
-![1721130909718](image/index/1721130909718.png)
+![1721139873741](image/index/1721139873741.png)
 
-### Prof. Hung Suck Park
+### Prof. Hung-Suck Park
 
-![1721130954016](image/index/1721130954016.png)
+![1721139881820](image/index/1721139881820.png)
